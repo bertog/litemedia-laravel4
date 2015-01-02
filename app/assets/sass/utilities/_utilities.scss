@@ -1,0 +1,38 @@
+/* Utilities */
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.align-left {
+    @include float-left;
+}
+
+.align-right {
+    @include float-right;
+}
+
+.clearfix {
+    @include clearfix;
+}
+
+.t-margin {
+	margin-bottom: $general-margin;
+}
+
+.t-wrapper {
+	min-width: 320px;
+}
+
+.ShowMe {
+	display: block;
+}
+

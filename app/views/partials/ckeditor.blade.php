@@ -1,0 +1,1 @@
+{{ HTML::script('js/frameworks/ckeditor/ckeditor.js') }}
