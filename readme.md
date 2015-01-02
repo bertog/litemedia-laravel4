@@ -1,3 +1,27 @@
+## Litemedia Laravel4 Bluprint
+
+Blueprint for a LiteMedia Web App based on the amazing Laravel4 Framework.
+
+The package is complete of:
+
+- Laracasts Flash
+- Laracasts Commander
+- Laracasts Validation
+- Laracasts TestDummy
+- Intervention Image
+- Way Generators
+- Barryvdh Laravel IDE Helper for PHPStorm
+- Codeception
+- Phpspec
+- SASS blueprint
+
+Everything properly configurated.
+
+INSTALLATION:
+
+- Change you App Key
+- Change your Namespace Folder and relative entry in the PSR-4 Autoload section of the composer.json file
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
