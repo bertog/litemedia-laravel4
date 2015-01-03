@@ -1,6 +1,6 @@
 {
 	"name": "litemedia/laravel4",
-	"description": "Laravel Blueprint for Litemedia Laravel App.",
+	"description": "Blueprint for Litemedia Laravel App.",
 	"keywords": ["framework", "laravel", "litemedia"],
 	"license": "MIT",
 	"type": "project",
